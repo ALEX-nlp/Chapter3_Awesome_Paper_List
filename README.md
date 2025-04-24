@@ -1,1 +1,3 @@
-# Chapter3_Awsome_Paper_List
+# Introduction
+
+This repository is aiming to collect recent accepted papers related to AuTo-Evaluation.
