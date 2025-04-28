@@ -1,0 +1,1 @@
+*Binjie Wang, Steffi Chern, Ethan Chern, Pengfei Liu*, **“Halu-j: Critique-based hallucination judge”** [[PDF]](https://openreview.net/pdf?id=PFNvlDbq2F)

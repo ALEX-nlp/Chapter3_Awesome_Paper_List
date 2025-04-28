@@ -1,0 +1,1 @@
+*Peter Clark, Oyvind Tafjord, Kyle Richardson*, **“Transformers as soft reasoners over language”** [[HOME Page]](https://www.ijcai.org/Proceedings/2020/537) [[PDF]](https://www.ijcai.org/proceedings/2020/0537.pdf)

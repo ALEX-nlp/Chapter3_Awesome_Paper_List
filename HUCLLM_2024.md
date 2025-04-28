@@ -1,0 +1,1 @@
+*Qian Pan, Zahra Ashktorab, Michael Desmond, Martín Santillán Cooper, James Johnson, Rahul Nair, Elizabeth Daly, and Werner Geyer*, **“Human-centered design recommendations for LLM-as-a-judge”** [[HOME Page]](https://aclanthology.org/2024.hucllm-1.2/) [[PDF]](https://aclanthology.org/2024.hucllm-1.2.pdf)

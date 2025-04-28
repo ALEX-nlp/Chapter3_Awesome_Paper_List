@@ -1,0 +1,1 @@
+*Wenhu Chen, Hanwen Zha, Zhiyu Chen, Wenhan Xiong, Hong Wang, and William Yang Wang*, **“HybridQA: A dataset of multi-hop question answering over tabular and textual data”** [[HOME Page]](https://aclanthology.org/2020.findings-emnlp.91/)[[PDF]](https://aclanthology.org/2020.findings-emnlp.91.pdf)

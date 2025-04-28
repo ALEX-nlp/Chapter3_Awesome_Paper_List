@@ -1,0 +1,1 @@
+*Charvi Rastogi, Marco Tulio Ribeiro, Nicholas King, Harsha Nori, Saleema Amershi*, **“Supporting human-AI collaboration in auditing LLMs with LLMs”** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3600211.3604712)

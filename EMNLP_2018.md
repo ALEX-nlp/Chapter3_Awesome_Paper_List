@@ -1,0 +1,1 @@
+*Alex Wang, Amanpreet Singh, Julian Michael, Felix Hill, Omer Levy, and Samuel Bowman*, **“GLUE: A multi-task benchmark and analysis platform for natural language understanding”**  [[HOME Page]](https://aclanthology.org/W18-5446/) [[PDF]](https://aclanthology.org/W18-5446.pdf)
