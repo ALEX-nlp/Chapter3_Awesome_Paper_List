@@ -20,3 +20,6 @@
 
 *Zhenran Xu, Senbao Shi, Baotian Hu, Jindi Yu, Dongfang Li, Min Zhang, Yuxiang Wu*, **“Towards reasoning in large language models via multi-agent peer review collaboration”** [[HOME Page]](https://arxiv.org/abs/2311.08152) [[PDF]](https://arxiv.org/pdf/2311.08152)
 
+
+
+*Qintong Li, Leyang Cui, Lingpeng Kong, Wei Bi*, **"Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation"** [[HOME Page]](https://arxiv.org/abs/2310.19740v1) [[PDF]](https://arxiv.org/pdf/2310.19740v1)

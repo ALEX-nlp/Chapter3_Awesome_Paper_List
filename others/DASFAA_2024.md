@@ -1,0 +1,1 @@
+*Yu Li, Shenyu Zhang, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi & Dehai Min*, **"MATEval: A multi-agent discussion framework for advancing open-eEnded text evaluation"** [[HOME Page]](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_31) [[PDF]](https://arxiv.org/pdf/2403.19305v2)
