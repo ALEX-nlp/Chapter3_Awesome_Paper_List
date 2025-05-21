@@ -1,28 +1,28 @@
 # Introduction
 
-This repository is aiming to collect recent accepted papers related to AuTo-Evaluation.
+This repository aims to collect recent accepted papers related to AuTo-Evaluation.
 
 ## Dynamic benchmarks
 
 Dynamic benchmarks aim at continuously updating of the testing data, offering a fairer assessment.
 
-20 ICLR 2024 *Jifan Yu, Xiaozhi Wang, Shangqing Tu, Shulin Cao, Daniel Zhang-Li, Xin Lv, Hao Peng, Zijun Yao, Xiaohan Zhang, Hanming Li, Chunyang Li, Zheyuan Zhang, Yushi Bai, Yantao Liu, Amy Xin, Kaifeng Yun, Linlu Gong, Nianyi Lin, Jianhui Chen, Zhili Wu, Yunjia Qi, Weikai Li, Yong Guan, Kaisheng Zeng, Ji Qi, Hailong Jin, Jinxin Liu, Yu Gu, Yuan Yao, Ning Ding, Lei Hou, Zhiyuan Liu, Xu Bin, Jie Tang, Juanzi Li*, **“KoLA: Carefully benchmarking world knowledge of large language models”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19238)[[PDF]](https://openreview.net/pdf?id=AqN23oqraW)
+20 ICLR 2024 *Jifan Yu, Xiaozhi Wang, et al.*, **“KoLA: Carefully benchmarking world knowledge of large language models”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19238)[[PDF]](https://openreview.net/pdf?id=AqN23oqraW)
 
-21 LREC 2024 *Yantao Liu, Zijun Yao, Xin Lv, Yuchen Fan, Shulin Cao, Jifan Yu, Lei Hou, and Juanzi Li*, **“Untangle the KNOT: Interweaving conflicting knowledge and reasoning skills in large language models”** [[HOME Page]](https://aclanthology.org/2024.lrec-main.1493/) [[PDF]](https://aclanthology.org/2024.lrec-main.1493.pdf)
+21 LREC 2024 *Yantao Liu, Zijun Yao, et al.*, **“Untangle the KNOT: Interweaving conflicting knowledge and reasoning skills in large language models”** [[HOME Page]](https://aclanthology.org/2024.lrec-main.1493/) [[PDF]](https://aclanthology.org/2024.lrec-main.1493.pdf)
 
-22 ICLR 2025 *Colin White, Samuel Dooley, Manley Roberts, Arka Pal, Benjamin Feuer, Siddhartha Jain, Ravid Shwartz-Ziv, Neel Jain, Khalid Saifullah, Sreemanti Dey, Shubh-Agrawal, Sandeep Sandha, Siddartha Naidu, Chinmay Hegde, Yann LeCun, Tom Goldstein, Willie Neiswanger, Micah Goldblum*, **“Livebench: A challenging, contamination-free LLM benchmark” **[[HOME Page]](https://iclr.cc/virtual/2025/poster/28134)[[PDF]](https://openreview.net/pdf?id=sKYHBTAxVa)
+22 ICLR 2025 *Colin White, Samuel Dooley, et al.*, **“Livebench: A challenging, contamination-free LLM benchmark” **[[HOME Page]](https://iclr.cc/virtual/2025/poster/28134)[[PDF]](https://openreview.net/pdf?id=sKYHBTAxVa)
 
 
-23 arXiv 2024 *Wei Tang, Yixin Cao, Yang Deng, Jiahao Ying, Bo Wang, Yizhe Yang, Yuyue Zhao, Qi Zhang, Xuanjing Huang, Yugang Jiang, Yong Liao*, **“EvoWiki: Evaluating LLMs on evolving knowledge”** [[HOME Page]](https://arxiv.org/abs/2412.13582) [[PDF]](https://arxiv.org/pdf/2412.13582)
+23 arXiv 2024 *Wei Tang, Yixin Cao, Yang Deng, et al.*, **“EvoWiki: Evaluating LLMs on evolving knowledge”** [[HOME Page]](https://arxiv.org/abs/2412.13582) [[PDF]](https://arxiv.org/pdf/2412.13582)
 
-24 arXiv 2024 *Xiaobao Wu, Liangming Pan, Yuxi Xie, Ruiwen Zhou, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Anh Tuan Luu, William Yang Wang*, **“AntiLeak-Bench: Preventing data contamination by automatically constructing benchmarks with updated real-world knowledge”** [[HOME Page]](https://arxiv.org/abs/2412.13670) [[PDF]](https://arxiv.org/pdf/2412.13670)
+24 arXiv 2024 *Xiaobao Wu, Liangming Pan, et al.*, **“AntiLeak-Bench: Preventing data contamination by automatically constructing benchmarks with updated real-world knowledge”** [[HOME Page]](https://arxiv.org/abs/2412.13670) [[PDF]](https://arxiv.org/pdf/2412.13670)
 
-47 ICLR 2025 *Naman Jain, Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, Ion Stoica*, **“LiveCodeBench: Holistic and contamination free evaluation of large language models for code”**  [[HOME Page]](https://iclr.cc/virtual/2025/poster/29033) [[PDF]](https://openreview.net/pdf?id=chfJJYC3iL)
+47 ICLR 2025 *Naman Jain, Han, Alex Gu, et al.*, **“LiveCodeBench: Holistic and contamination free evaluation of large language models for code”**  [[HOME Page]](https://iclr.cc/virtual/2025/poster/29033) [[PDF]](https://openreview.net/pdf?id=chfJJYC3iL)
 
 244 ECML 2023  *Andrzej Dulny, Andreas Hotho, Anna Krause*, **“DynaBench: A benchmark dataset for learning dynamical systems from low-resolution data,”** [[PDF]](https://arxiv.org/pdf/2306.05805v1)
 
 
-245 ICML 2024 *Wei-Lin Chiang, Lianmin Zheng, Ying Sheng, Anastasios Nikolas Angelopoulos, Tianle Li, Dacheng Li, Banghua Zhu, Hao Zhang, Michael Jordan, Joseph E. Gonzalez, Ion Stoica*, **“Chatbot arena: An open platform for evaluating LLMs by human preference” **[[HOME Page]](https://icml.cc/virtual/2024/poster/35068)[[PDF]](https://openreview.net/pdf?id=3MW8GKNyzI)
+245 ICML 2024 *Wei-Lin Chiang, Lianmin Zheng, et al.*, **“Chatbot arena: An open platform for evaluating LLMs by human preference” **[[HOME Page]](https://icml.cc/virtual/2024/poster/35068)[[PDF]](https://openreview.net/pdf?id=3MW8GKNyzI)
 
 
 246 NeurIPS 2023 *Jiawei Liu, Chunqiu Steven Xia, Yuyao Wang, LINGMING ZHANG*, **“Is your code generated by chatgpt really correct? Rigorous evaluation of large language models for code generation”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/43e9d647ccd3e4b7b5baab53f0368686-Abstract-Conference.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/43e9d647ccd3e4b7b5baab53f0368686-Paper-Conference.pdf)
@@ -31,7 +31,7 @@ Dynamic benchmarks aim at continuously updating of the testing data, offering a 
 247 arXiv 2024 *Aidar Myrzakhan, Sondos Mahmoud Bsharat, Zhiqiang Shen*, **“Open-LLM-Leaderboard: From multi-choice to open-style questions for llms evaluation, benchmark, and arena”** [[HOME Page]](https://arxiv.org/abs/2406.07545) [[PDF]](https://arxiv.org/pdf/2406.07545)
 
 
-248 NeurIPS 2023 *Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, jiayi lei, Yao Fu, Maosong Sun, Junxian He*, **“C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c6ec1844bec96d6d32ae95ae694e23d8-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c6ec1844bec96d6d32ae95ae694e23d8-Paper-Datasets_and_Benchmarks.pdf)
+248 NeurIPS 2023 *Yuzhen Huang, Yuzhuo Bai, et al.*, **“C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c6ec1844bec96d6d32ae95ae694e23d8-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c6ec1844bec96d6d32ae95ae694e23d8-Paper-Datasets_and_Benchmarks.pdf)
 
 
 
@@ -43,84 +43,84 @@ Automated Dataset Curation is particularly vulnerable to rapid outdatedness and 
 15 EMNLP 2023 *Junyi Li, Xiaoxue Cheng, Xin Zhao, Jian-Yun Nie, and Ji-Rong Wen*,
 **“HaluEval: A large-scale hallucination evaluation benchmark for large language models”** | [[HOME_Page]](https://aclanthology.org/2023.emnlp-main.397/) [[PDF]](https://aclanthology.org/2023.emnlp-main.397.pdf)
 
-22 ICLR 2025 *Colin White, Samuel Dooley, Manley Roberts, Arka Pal, Benjamin Feuer, Siddhartha Jain, Ravid Shwartz-Ziv, Neel Jain, Khalid Saifullah, Sreemanti Dey, Shubh-Agrawal, Sandeep Sandha, Siddartha Naidu, Chinmay Hegde, Yann LeCun, Tom Goldstein, Willie Neiswanger, Micah Goldblum*, **“Livebench: A challenging, contamination-free LLM benchmark” **[[HOME Page]](https://iclr.cc/virtual/2025/poster/28134)[[PDF]](https://openreview.net/pdf?id=sKYHBTAxVa)
+22 ICLR 2025 *Colin White, Samuel Dooley, et al.*, **“Livebench: A challenging, contamination-free LLM benchmark” **[[HOME Page]](https://iclr.cc/virtual/2025/poster/28134)[[PDF]](https://openreview.net/pdf?id=sKYHBTAxVa)
 
 
-24 arXiv 2024 *Xiaobao Wu, Liangming Pan, Yuxi Xie, Ruiwen Zhou, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Anh Tuan Luu, William Yang Wang*, **“AntiLeak-Bench: Preventing data contamination by automatically constructing benchmarks with updated real-world knowledge”** [[HOME Page]](https://arxiv.org/abs/2412.13670) [[PDF]](https://arxiv.org/pdf/2412.13670)
+24 arXiv 2024 *Xiaobao Wu, Liangming Pan, et al.*, **“AntiLeak-Bench: Preventing data contamination by automatically constructing benchmarks with updated real-world knowledge”** [[HOME Page]](https://arxiv.org/abs/2412.13670) [[PDF]](https://arxiv.org/pdf/2412.13670)
 
-29 ICLR 2024 *Pan Lu, Hritik Bansal, Tony Xia, Jiacheng Liu, Chunyuan Li, Hannaneh Hajishirzi, Hao Cheng, Kai-Wei Chang, Michel Galley, Jianfeng Gao*, **“Mathvista: Evaluating mathematical reasoning of foundation models in visual contexts”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18900) [[PDF]](https://openreview.net/pdf?id=KUNzEQMWU7)
-
-
-33 ACL 2024 *Chaoqun He, Renjie Luo, Yuzhuo Bai, Shengding Hu, Zhen Thai, Junhao Shen, Jinyi Hu, Xu Han, Yujie Huang, Yuxiang Zhang, Jie Liu, Lei Qi, Zhiyuan Liu, and Maosong Sun*, **“Olympiadbench: A challenging benchmark for promoting AGI with olympiad-level bilingual multimodal scientific problems”**[[HOME Page]](https://aclanthology.org/2024.acl-long.211/)[[PDF]](https://aclanthology.org/2024.acl-long.211.pdf)
+29 ICLR 2024 *Pan Lu, Hritik Bansal, et al.*, **“Mathvista: Evaluating mathematical reasoning of foundation models in visual contexts”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18900) [[PDF]](https://openreview.net/pdf?id=KUNzEQMWU7)
 
 
-38 ICLR 2024 Carlos E Jimenez, John Yang, Alexander Wettig, Shunyu Yao, Kexin Pei, Ofir Press, Karthik Narasimhan, **“SWE-bench: Can language models resolve real-world github issues?”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18505)[[PDF]](https://openreview.net/pdf?id=VTF8yNQM66)
-
-39 ICLR 2025 *Terry Yue Zhuo, Minh Chien Vu, Jenny Chim, Han Hu, Wenhao Yu, Ratnadira Widyasari, Imam Nur Bani Yusuf, Haolan Zhan, Junda He, Indraneil Paul, Simon Brunner, Chen GONG, James Hoang, Armel Zebaze, Xiaoheng Hong, Wen-Ding Li, Jean Kaddour, Ming Xu, Zhihan Zhang, Prateek Yadav, Naman Jain, Alex Gu, Zhoujun Cheng, Jiawei Liu, Qian Liu, Zijian Wang, Binyuan Hui, Niklas Muennighoff, David Lo, Daniel Fried, Xiaoning Du, Harm de Vries, Leandro Von Werra*, **“BigCodeBench: Benchmarking code generation with diverse function calls and complex instructions”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/29245) [[PDF]](https://openreview.net/pdf?id=YrycTjllL0)
+33 ACL 2024 *Chaoqun He, Renjie Luo, et al.*, **“Olympiadbench: A challenging benchmark for promoting AGI with olympiad-level bilingual multimodal scientific problems”**[[HOME Page]](https://aclanthology.org/2024.acl-long.211/)[[PDF]](https://aclanthology.org/2024.acl-long.211.pdf)
 
 
-47 ICLR 2025 *Naman Jain, Han, Alex Gu, Wen-Ding Li, Fanjia Yan, Tianjun Zhang, Sida Wang, Armando Solar-Lezama, Koushik Sen, Ion Stoica*, **“LiveCodeBench: Holistic and contamination free evaluation of large language models for code”**  [[HOME Page]](https://iclr.cc/virtual/2025/poster/29033) [[PDF]](https://openreview.net/pdf?id=chfJJYC3iL)
+38 ICLR 2024 *Carlos E Jimenez, John Yang, et al.*“SWE-bench: Can language models resolve real-world GitHub issues?”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18505)[[PDF]](https://openreview.net/pdf?id=VTF8yNQM66)
 
-62 TMLR 2024 *Aarohi Srivastava, Abhinav Rastogi, Abhishek Rao, Abu Awal Md Shoeb, Abubakar Abid, Adam Fisch, Adam R. Brown, Adam Santoro, Aditya Gupta, Adrià Garriga-Alonso, Agnieszka Kluska, Aitor Lewkowycz, Akshat Agarwal, Alethea Power, Alex Ray, Alex Warstadt, Alexander W. Kocurek, Ali Safaya, Ali Tazarv, Alice Xiang et al. (430 additional authors not shown)*, **“Beyond the imitation game: Quantifying and extrapolating the capabilities of language models”** [[HOME Page]](https://openreview.net/forum?id=uyTL5Bvosj) [[PDF]](https://openreview.net/pdf?id=uyTL5Bvosj)
-
-
-90 ACL 2024 *Chenxin An, Shansan Gong, Ming Zhong, Xingjian Zhao, Mukai Li, Jun Zhang, Lingpeng Kong, and Xipeng Qiu*, **“L-eval: Instituting standardized evaluation for long context language models”** [[HOME Page]](https://aclanthology.org/2024.acl-long.776/)[[PDF]](https://aclanthology.org/2024.acl-long.776.pdf)
+39 ICLR 2025 *Terry Yue Zhuo, Minh Chien Vu, et al.*, **“BigCodeBench: Benchmarking code generation with diverse function calls and complex instructions”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/29245) [[PDF]](https://openreview.net/pdf?id=YrycTjllL0)
 
 
-91 ACL 2024 *Yushi Bai, Xin Lv, Jiajie Zhang, Hongchang Lyu, Jiankai Tang, Zhidian Huang, Zhengxiao Du, Xiao Liu, Aohan Zeng, Lei Hou, Yuxiao Dong, Jie Tang, and Juanzi Li*, **“LongBench: A bilingual, multitask benchmark for long context understanding”** [[HOME Page]](https://aclanthology.org/2024.acl-long.172/)[[PDF]](https://aclanthology.org/2024.acl-long.172.pdf)
+47 ICLR 2025 *Naman Jain, Han, Alex Gu, et al.*, **“LiveCodeBench: Holistic and contamination free evaluation of large language models for code”**  [[HOME Page]](https://iclr.cc/virtual/2025/poster/29033) [[PDF]](https://openreview.net/pdf?id=chfJJYC3iL)
 
-145 ICML 2024 *Kaining Ying, Fanqing Meng, Jin Wang, Zhiqian Li, Han Lin, Yue Yang, Hao Zhang, Wenbo Zhang, Yuqi Lin, Shuo Liu, Jiayi Lei, Quanfeng Lu, Runjian Chen, Peng Xu, Renrui Zhang, Haozhe Zhang, Peng Gao, Yali Wang, Yu Qiao, Ping Luo, Kaipeng Zhang, Wenqi Shao*, **“Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask AGI” **[[HOME Page]](https://icml.cc/virtual/2024/poster/34062)[[PDF]](https://openreview.net/pdf?id=R4Ng8zYaiz)
-
-148 NeurIPS 2024 *Lin Chen, Jinsong Li, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Zehui Chen, Haodong Duan, Jiaqi Wang, Yu Qiao, Dahua Lin, Feng Zhao*, **“Are we on the right way for evaluating large vision-language models?”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2f8ee6a3d766b426d2618e555b5aeb39-Abstract-Conference.html) [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2f8ee6a3d766b426d2618e555b5aeb39-Paper-Conference.pdf)
+62 TMLR 2024 *Aarohi Srivastava, Abhinav Rastogi, et al.*, **“Beyond the imitation game: Quantifying and extrapolating the capabilities of language models”** [[HOME Page]](https://openreview.net/forum?id=uyTL5Bvosj) [[PDF]](https://openreview.net/pdf?id=uyTL5Bvosj)
 
 
-
-149 ECCV 2024 *Yuan Liu, Haodong Duan, Yuanhan Zhang, Bo Li, Songyang Zhang, Wangbo Zhao, Yike Yuan, Jiaqi Wang, Conghui He, Ziwei Liu, Kai Chen, Dahua Lin*, **“Mmbench: Is your multi-modal model an all-around player?”** [[HOME Page]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/959_ECCV_2024_paper.php)[[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00959.pdf)
-
-
-158 CVPR 2024 *Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, Boyuan Zheng, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen*, **“MMMU: A massive multi-discipline multimodal understanding and reasoning benchmark for expert AGI”** [[HOME Page]](https://openaccess.thecvf.com/content/CVPR2024/html/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.html) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)
+90 ACL 2024 *Chenxin An, Shansan Gong, et al.*, **“L-eval: Instituting standardized evaluation for long context language models”** [[HOME Page]](https://aclanthology.org/2024.acl-long.776/)[[PDF]](https://aclanthology.org/2024.acl-long.776.pdf)
 
 
-248 NeurIPS 2023 *Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, jiayi lei, Yao Fu, Maosong Sun, Junxian He*, **“C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c6ec1844bec96d6d32ae95ae694e23d8-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c6ec1844bec96d6d32ae95ae694e23d8-Paper-Datasets_and_Benchmarks.pdf)
+91 ACL 2024 *Yushi Bai, Xin Lv, Jiajie Zhang, et al.*, **“LongBench: A bilingual, multitask benchmark for long context understanding”** [[HOME Page]](https://aclanthology.org/2024.acl-long.172/)[[PDF]](https://aclanthology.org/2024.acl-long.172.pdf)
 
-249 EMNLP 2023 *Wenhu Chen, Ming Yin, Max Ku, Pan Lu, Yixin Wan, Xueguang Ma, Jianyu Xu, Xinyi Wang, and Tony Xia*, **“TheoremQA: A theorem-driven question answering dataset”** [[HOME Page]](https://aclanthology.org/2023.emnlp-main.489/)[[PDF]](https://aclanthology.org/2023.emnlp-main.489.pdf)
+145 ICML 2024 *Kaining Ying, Fanqing Meng, et al.*, **“Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask AGI” **[[HOME Page]](https://icml.cc/virtual/2024/poster/34062)[[PDF]](https://openreview.net/pdf?id=R4Ng8zYaiz)
 
-250 ICML 2024 *Xiaoxuan Wang, Ziniu Hu, Pan Lu, Yanqiao Zhu, Jieyu Zhang, Satyen Subramaniam, Arjun R Loomba, Shichang Zhang, Yizhou Sun, Wei Wang*, **“SciBench: Evaluating college-level scientific problem-solving abilities of large language models”** [[HOME Page]](https://icml.cc/virtual/2024/poster/33621)[[PDF]](https://openreview.net/pdf?id=bq1JEgioLr)
+148 NeurIPS 2024 *Lin Chen, Jinsong Li, et al.*, **“Are we on the right way for evaluating large vision-language models?”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2f8ee6a3d766b426d2618e555b5aeb39-Abstract-Conference.html) [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/2f8ee6a3d766b426d2618e555b5aeb39-Paper-Conference.pdf)
 
-251 COLM 2024 *Song Dingjie, Shunian Chen, Guiming Hardy Chen, Fei Yu, Xiang Wan, Benyou Wang*, **“MileBench: Benchmarking MLLMs in long context”**  [[HOME Page]](https://openreview.net/forum?id=Uhwze2LEwq) [[PDF]](https://openreview.net/pdf?id=Uhwze2LEwq)
+
+
+149 ECCV 2024 *Yuan Liu, Haodong Duan, et al.*, **“Mmbench: Is your multi-modal model an all-around player?”** [[HOME Page]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/959_ECCV_2024_paper.php)[[PDF]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00959.pdf)
+
+
+158 CVPR 2024 *Xiang Yue, Yuansheng Ni, et al.*, **“MMMU: A massive multi-discipline multimodal understanding and reasoning benchmark for expert AGI”** [[HOME Page]](https://openaccess.thecvf.com/content/CVPR2024/html/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.html) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yue_MMMU_A_Massive_Multi-discipline_Multimodal_Understanding_and_Reasoning_Benchmark_for_CVPR_2024_paper.pdf)
+
+
+248 NeurIPS 2023 *Yuzhen Huang, Yuzhuo Bai, et al.*, **“C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c6ec1844bec96d6d32ae95ae694e23d8-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c6ec1844bec96d6d32ae95ae694e23d8-Paper-Datasets_and_Benchmarks.pdf)
+
+249 EMNLP 2023 *Wenhu Chen, Ming Yin, et al.*, **“TheoremQA: A theorem-driven question answering dataset”** [[HOME Page]](https://aclanthology.org/2023.emnlp-main.489/)[[PDF]](https://aclanthology.org/2023.emnlp-main.489.pdf)
+
+250 ICML 2024 *Xiaoxuan Wang, Ziniu Hu, et al.*, **“SciBench: Evaluating college-level scientific problem-solving abilities of large language models”** [[HOME Page]](https://icml.cc/virtual/2024/poster/33621)[[PDF]](https://openreview.net/pdf?id=bq1JEgioLr)
+
+251 COLM 2024 *Song Dingjie, Shunian Chen, et al.*, **“MileBench: Benchmarking MLLMs in long context”**  [[HOME Page]](https://openreview.net/forum?id=Uhwze2LEwq) [[PDF]](https://openreview.net/pdf?id=Uhwze2LEwq)
 
 
 253 EACL 2023 *Niklas Muennighoff, Nouamane Tazi, Loic Magne, and Nils Reimers*, **“MTEB: Massive text embedding benchmark”** [[HOME Page]](https://aclanthology.org/2023.eacl-main.148/)[[PDF]](https://aclanthology.org/2023.eacl-main.148.pdf)
 
 
-254 ICLR 2025 *Manuel Faysse, Hugues Sibille, Tony Wu, Bilel Omrani, Gautier Viaud, CELINE HUDELOT, Pierre Colombo*, **“Colpali: Efficient document retrieval with vision language models”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/28336)[[PDF]](https://arxiv.org/pdf/2407.01449)
+254 ICLR 2025 *Manuel Faysse, Hugues Sibille, et al.*, **“Colpali: Efficient document retrieval with vision language models”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/28336)[[PDF]](https://arxiv.org/pdf/2407.01449)
 
 
-255 ACL 2024 *Jiahao Ying, Yixin Cao, Kai Xiong, Long Cui, Yidong He, and Yongbin Liu*,**“Intuitive or dependent? Investigating LLMs’ behavior style to conflicting prompts”** [[HOME Page]](https://aclanthology.org/2024.acl-long.232/)[[PDF]](https://aclanthology.org/2024.acl-long.232.pdf)
+255 ACL 2024 *Jiahao Ying, Yixin Cao, et al.*,**“Intuitive or dependent? Investigating LLMs’ behavior style to conflicting prompts”** [[HOME Page]](https://aclanthology.org/2024.acl-long.232/)[[PDF]](https://aclanthology.org/2024.acl-long.232.pdf)
 
 
-256 ICLR 2025 *Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, Ziyan Jiang, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen*,**“Mega-bench: Scaling multimodal evaluation to over 500 real-world tasks”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/31110)[[PDF]](https://arxiv.org/pdf/2410.10563)
+256 ICLR 2025 *Jiacheng Chen, Tianhao Liang, et al.*,**“Mega-bench: Scaling multimodal evaluation to over 500 real-world tasks”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/31110)[[PDF]](https://arxiv.org/pdf/2410.10563)
 
 
-257 NeurIPS 2023 *Wenxuan Zhang, Mahani Aljunied, Chang Gao, Yew Ken Chia, Lidong Bing*, **“M3exam: A multilingual, multimodal, multilevel benchmark for examining large language models”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/117c5c8622b0d539f74f6d1fb082a2e9-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/117c5c8622b0d539f74f6d1fb082a2e9-Paper-Datasets_and_Benchmarks.pdf)
+257 NeurIPS 2023 *Wenxuan Zhang, Mahani Aljunied, et al.*, **“M3exam: A multilingual, multimodal, multilevel benchmark for examining large language models”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/117c5c8622b0d539f74f6d1fb082a2e9-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/117c5c8622b0d539f74f6d1fb082a2e9-Paper-Datasets_and_Benchmarks.pdf)
 
-258 ICLR 2024 *Xingyao Wang, Zihan Wang, Jiateng Liu, Yangyi Chen, Lifan Yuan, Hao Peng, Heng Ji*, **"MINT: Evaluating LLMs in multi-turn interaction with tools and language feedback"**[[HOME Page]](https://iclr.cc/virtual/2024/poster/18006)[[PDF]](https://openreview.net/pdf?id=jp3gWrMuIZ)
-
-
-
-260 ICLR 2025 *Hongjin SU, Howard Yen, Mengzhou Xia, Weijia Shi, Niklas Muennighoff, Han-yu Wang, Liu Haisu, Quan Shi, Zachary Siegel, Michael Tang, Ruoxi Sun, Jinsung Yoon, Sercan Arik, Danqi Chen, Tao Yu*, **“BRIGHT: A realistic and challenging benchmark for reasoning-intensive retrieval”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/27702) [[PDF]](https://openreview.net/pdf?id=ykuc5q381b)
+258 ICLR 2024 *Xingyao Wang, Zihan Wang, et al.*, **"MINT: Evaluating LLMs in multi-turn interaction with tools and language feedback"**[[HOME Page]](https://iclr.cc/virtual/2024/poster/18006)[[PDF]](https://openreview.net/pdf?id=jp3gWrMuIZ)
 
 
-263 EMNLP 2024 *Yubo Ma, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, and Aixin Sun*, **“SciAgent: Tool-augmented language models for scientific reasoning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.880)[[PDF]](https://aclanthology.org/2024.emnlp-main.880.pdf)
+
+260 ICLR 2025 *Hongjin SU, Howard Yen, et al.*, **“BRIGHT: A realistic and challenging benchmark for reasoning-intensive retrieval”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/27702) [[PDF]](https://openreview.net/pdf?id=ykuc5q381b)
 
 
-264 NeurIPS 2024 *Yubo Ma, Yuhang Zang, Liangyu Chen, Meiqi Chen, Yizhu Jiao, Xinze Li, Xinyuan Lu, Ziyu Liu, Yan Ma, Xiaoyi Dong, Pan Zhang, Liangming Pan, Yu-Gang Jiang, Jiaqi Wang, Yixin Cao, Aixin Sun*, **“Mmlongbench-doc: Benchmarking long-context document understanding with visualizations”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ae0e43289bffea0c1fa34633fc608e92-Abstract-Datasets_and_Benchmarks_Track.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/ae0e43289bffea0c1fa34633fc608e92-Paper-Datasets_and_Benchmarks_Track.pdf)
+263 EMNLP 2024 *Yubo Ma, Zhibin Gou, et al.*, **“SciAgent: Tool-augmented language models for scientific reasoning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.880)[[PDF]](https://aclanthology.org/2024.emnlp-main.880.pdf)
 
-265 ICLR 2025 *Shi Yu, Chaoyue Tang, Bokai Xu, Junbo Cui, Junhao Ran, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun*, **“VisRAG: Vision-based retrieval-augmented generation on multi-modality documents”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/27679) [[PDF]](https://openreview.net/pdf?id=zG459X3Xge)
 
-266 ACL 2024 *Zhiqing Sun, Sheng Shen, Shengcao Cao, Haotian Liu, Chunyuan Li, Yikang Shen, Chuang Gan, Liangyan Gui, Yu-Xiong Wang, Yiming Yang, Kurt Keutzer, and Trevor Darrell*, **“Aligning large multimodal models with factually augmented RLHF”** [[HOME Page]](https://aclanthology.org/2024.findings-acl.775/)[[PDF]](https://aclanthology.org/2024.findings-acl.775.pdf)
+264 NeurIPS 2024 *Yubo Ma, Yuhang Zang, et al.*, **“Mmlongbench-doc: Benchmarking long-context document understanding with visualizations”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/ae0e43289bffea0c1fa34633fc608e92-Abstract-Datasets_and_Benchmarks_Track.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/ae0e43289bffea0c1fa34633fc608e92-Paper-Datasets_and_Benchmarks_Track.pdf)
 
-267 arXiv 2025 *Niklas Muennighoff, Zitong Yang, Weijia Shi, Xiang Lisa Li, Li Fei-Fei, Hannaneh Hajishirzi, Luke Zettlemoyer, Percy Liang, Emmanuel Candès, Tatsunori Hashimoto*, **“s1: Simple test-time scaling”** [[HOME Page]](https://arxiv.org/abs/2501.19393) [[PDF]](https://arxiv.org/pdf/2501.19393)
+265 ICLR 2025 *Shi Yu, Chaoyue Tang, et al.*, **“VisRAG: Vision-based retrieval-augmented generation on multi-modality documents”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/27679) [[PDF]](https://openreview.net/pdf?id=zG459X3Xge)
+
+266 ACL 2024 *Zhiqing Sun, Sheng Shen, et al.*, **“Aligning large multimodal models with factually augmented RLHF”** [[HOME Page]](https://aclanthology.org/2024.findings-acl.775/)[[PDF]](https://aclanthology.org/2024.findings-acl.775.pdf)
+
+267 arXiv 2025 *Niklas Muennighoff, Zitong Yang, et al.*, **“s1: Simple test-time scaling”** [[HOME Page]](https://arxiv.org/abs/2501.19393) [[PDF]](https://arxiv.org/pdf/2501.19393)
 
 
 269 arXiv 2023 *Rubèn Tito, Dimosthenis Karatzas, Ernest Valveny*, **“Hierarchical multimodal transformers for multi-page DocVQA”** [[HOME Page]](https://arxiv.org/abs/2212.05935) [[PDF]](https://arxiv.org/abs/2212.05935)
@@ -128,10 +128,9 @@ Automated Dataset Curation is particularly vulnerable to rapid outdatedness and 
 
 270 ICML 2024 *Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su*, **“GPT-4V(ision) is a generalist web agent, if grounded”** [[HOME Page]](https://icml.cc/virtual/2024/poster/33031) [[PDF]](https://openreview.net/pdf?id=piecKJ2DlB)
 
-271 ICLR 2025 *John Yang, Carlos E Jimenez, Alex Zhang, Kilian Lieret, Joyce Yang, Xindi Wu, Ori Press, Niklas Muennighoff, Gabriel Synnaeve, Karthik Narasimhan, Diyi Yang, Sida Wang, Ofir Press*,
-**“SWE-Bench multimodal: Do AI systems generalize to visual software domains?”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/28177)[[PDF]](https://arxiv.org/pdf/2410.03859)
+271 ICLR 2025 *John Yang, Carlos E Jimenez, et al.*, **“SWE-Bench multimodal: Do AI systems generalize to visual software domains?”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/28177)[[PDF]](https://arxiv.org/pdf/2410.03859)
 
-272 NeurIPS 2023 *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Sam Stevens, Boshi Wang, Huan Sun, Yu Su*, **“Mind2web: Towards a generalist agent for the web”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5950bf290a1570ea401bf98882128160-Paper-Datasets_and_Benchmarks.pdf)
+272 NeurIPS 2023 *Xiang Deng, Yu Gu, Boyuan Zheng, et al.*, **“Mind2web: Towards a generalist agent for the web”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5950bf290a1570ea401bf98882128160-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5950bf290a1570ea401bf98882128160-Paper-Datasets_and_Benchmarks.pdf)
 
 
 273 arXiv 2024 *Xueguang Ma, Shengyao Zhuang, Bevan Koopman, Guido Zuccon, Wenhu Chen, Jimmy Lin*, **“VISA: Retrieval augmented generation with visual source attribution”** [[HOME Page]](https://arxiv.org/abs/2412.14457v1) [[PDF]](https://arxiv.org/pdf/2412.14457v1)
@@ -140,53 +139,53 @@ Automated Dataset Curation is particularly vulnerable to rapid outdatedness and 
 274 arXiv 2024 *Jaemin Cho, Debanjan Mahata, Ozan Irsoy, Yujie He, Mohit Bansal*, **“M3DocRAG: Multi-modal retrieval is what you need for multi-page multi-document understanding”** [[HOME Page]](https://arxiv.org/abs/2411.04952) [[PDF]](https://arxiv.org/pdf/2411.04952)
 
 
-276 arXiv 2024 *Zora Zhiruo Wang, Akari Asai, Xinyan Velocity Yu, Frank F. Xu, Yiqing Xie, Graham Neubig, Daniel Fried*, **“CodeRAG-Bench: Can retrieval augment code generation?”** [[HOME Page]](https://arxiv.org/abs/2406.14497) [[PDF]](https://arxiv.org/pdf/2406.14497)
+276 arXiv 2024 *Zora Zhiruo Wang, Akari Asai, et al.*, **“CodeRAG-Bench: Can retrieval augment code generation?”** [[HOME Page]](https://arxiv.org/abs/2406.14497) [[PDF]](https://arxiv.org/pdf/2406.14497)
 
 
-278 arXiv 2024 *Wangtao Sun, Chenxiang Zhang, XueYou Zhang, Xuanqing Yu, Ziyang Huang, Pei Chen, Haotian Xu, Shizhu He, Jun Zhao, Kang Liu*, **“Beyond instruction following: Evaluating inferential rule following of large language models,”** [[HOME Page]](https://arxiv.org/abs/2407.08440) [[PDF]](https://arxiv.org/pdf/2407.08440)
+278 arXiv 2024 *Wangtao Sun, Chenxiang Zhang, et al.*, **“Beyond instruction following: Evaluating inferential rule following of large language models,”** [[HOME Page]](https://arxiv.org/abs/2407.08440) [[PDF]](https://arxiv.org/pdf/2407.08440)
 
 
-279 arXiv 2024 *Fei Wang, Xingyu Fu, James Y. Huang, Zekun Li, Qin Liu, Xiaogeng Liu, Mingyu Derek Ma, Nan Xu, Wenxuan Zhou, Kai Zhang, Tianyi Lorena Yan, Wenjie Jacky Mo, Hsiang-Hui Liu, Pan Lu, Chunyuan Li, Chaowei Xiao, Kai-Wei Chang, Dan Roth, Sheng Zhang, Hoifung Poon, Muhao Chen*, **“MuirBench: A comprehensive benchmark for robust multi-image understanding”** [[HOME Page]](https://arxiv.org/abs/2406.09411) [[PDF]](https://arxiv.org/pdf/2406.09411)
+279 arXiv 2024 *Fei Wang, Xingyu Fu, et al.*, **“MuirBench: A comprehensive benchmark for robust multi-image understanding”** [[HOME Page]](https://arxiv.org/abs/2406.09411) [[PDF]](https://arxiv.org/pdf/2406.09411)
 
 
-280 EMNLP 2024 *Chunyang Li, Hao Peng, Xiaozhi Wang, Yunjia Qi, Lei Hou, Bin Xu, and Juanzi Li*, **“MAVEN-FACT: A large-scale event factuality detection dataset”**[[HOME Page]](https://aclanthology.org/2024.findings-emnlp.651/)[[PDF]](https://aclanthology.org/2024.findings-emnlp.651.pdf)
+280 EMNLP 2024 *Chunyang Li, Hao Peng, et al.*, **“MAVEN-FACT: A large-scale event factuality detection dataset”**[[HOME Page]](https://aclanthology.org/2024.findings-emnlp.651/)[[PDF]](https://aclanthology.org/2024.findings-emnlp.651.pdf)
 
 
-281 NeurIPS 2023 *Kaiyu Yang, Aidan Swope, Alex Gu, Rahul Chalamala, Peiyang Song, Shixing Yu, Saad Godil, Ryan J Prenger, Animashree Anandkumar*, **“LeanDojo: Theorem proving with retrieval-augmented language models”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/4441469427094f8873d0fecb0c4e1cee-Paper-Datasets_and_Benchmarks.pdf)
+281 NeurIPS 2023 *Kaiyu Yang, Aidan Swope, et al.*, **“LeanDojo: Theorem proving with retrieval-augmented language models”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/4441469427094f8873d0fecb0c4e1cee-Paper-Datasets_and_Benchmarks.pdf)
 
-282 NeurIPS 2023 *Jungo Kasai, Keisuke Sakaguchi, yoichi takahashi, Ronan Le Bras, Akari Asai, Xinyan Yu, Dragomir Radev, Noah A. Smith, Yejin Choi, Kentaro Inui*, **“Realtime QA: What’s the answer right now?”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9941624ef7f867a502732b5154d30cb7-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9941624ef7f867a502732b5154d30cb7-Paper-Datasets_and_Benchmarks.pdf)
+282 NeurIPS 2023 *Jungo Kasai, Keisuke Sakaguchi, et al.*, **“Realtime QA: What’s the answer right now?”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/9941624ef7f867a502732b5154d30cb7-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9941624ef7f867a502732b5154d30cb7-Paper-Datasets_and_Benchmarks.pdf)
 
-283 arXiv 2025 *Shanghaoran Quan, Jiaxi Yang, Bowen Yu, Bo Zheng, Dayiheng Liu, An Yang, Xuancheng Ren, Bofei Gao, Yibo Miao, Yunlong Feng, Zekun Wang, Jian Yang, Zeyu Cui, Yang Fan, Yichang Zhang, Binyuan Hui, Junyang Lin*, **“Codeelo: Benchmarking competition-level code generation of llms with human-comparable elo ratings”**  [[HOME Page]](https://arxiv.org/abs/2501.01257) [[PDF]](https://arxiv.org/pdf/2501.01257)
-
-
-285 NeurIPS 2024 *Weiyun Wang, Shuibo Zhang, Yiming Ren, Yuchen Duan, Tiantong Li, Shuo Liu, Mengkang Hu, Zhe Chen, Kaipeng Zhang, Lewei Lu, Xizhou Zhu, Ping Luo, Yu Qiao, Jifeng Dai, Wenqi Shao, Wenhai Wang*, **“Needle in a multimodal haystack”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/24a8968affe71ffe4067d022b9d16566-Abstract-Datasets_and_Benchmarks_Track.html) [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/24a8968affe71ffe4067d022b9d16566-Paper-Datasets_and_Benchmarks_Track.pdf)
+283 arXiv 2025 *Shanghaoran Quan, Jiaxi Yang, et al.*, **“Codeelo: Benchmarking competition-level code generation of llms with human-comparable elo ratings”**  [[HOME Page]](https://arxiv.org/abs/2501.01257) [[PDF]](https://arxiv.org/pdf/2501.01257)
 
 
-286 NeurIPS 2023  *Hugo Laurençon, Lucile Saulnier, Leo Tronchon, Stas Bekman, Amanpreet Singh, Anton Lozhkov, Thomas Wang, Siddharth Karamcheti, Alexander Rush, Douwe Kiela, Matthieu Cord, Victor Sanh*, **“Obelics: An open web-scale filtered dataset of interleaved image-text documents”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2cfb719f58585f779d0a4f9f07bd618-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/e2cfb719f58585f779d0a4f9f07bd618-Paper-Datasets_and_Benchmarks.pdf)
+285 NeurIPS 2024 *Weiyun Wang, Shuibo Zhang, et al.*, **“Needle in a multimodal haystack”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/24a8968affe71ffe4067d022b9d16566-Abstract-Datasets_and_Benchmarks_Track.html) [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/24a8968affe71ffe4067d022b9d16566-Paper-Datasets_and_Benchmarks_Track.pdf)
+
+
+286 NeurIPS 2023  *Hugo Laurençon, Lucile Saulnier, et al.*, **“Obelics: An open web-scale filtered dataset of interleaved image-text documents”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2cfb719f58585f779d0a4f9f07bd618-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/e2cfb719f58585f779d0a4f9f07bd618-Paper-Datasets_and_Benchmarks.pdf)
 
 287 EMNLP 2023 *Yifan Li, Yifan Du, Kun Zhou, Jinpeng Wang, Xin Zhao, and Ji-Rong Wen*, **“Evaluating object hallucination in large vision-language models”** [[HOME Page]](https://aclanthology.org/2023.emnlp-main.20/)[[PDF]](https://aclanthology.org/2023.emnlp-main.20.pdf)
 
 
-288 ACL 2024 *Noah Wang, Z.y. Peng, Haoran Que, Jiaheng Liu, Wangchunshu Zhou, Yuhan Wu, Hongcheng Guo, Ruitong Gan, Zehao Ni, Jian Yang, Man Zhang, Zhaoxiang Zhang, Wanli Ouyang, Ke Xu, Wenhao Huang, Jie Fu, and Junran Peng*, **“RoleLLM: Benchmarking, eliciting, and enhancing role-playing abilities of large language models”** [[HOME Page]](https://aclanthology.org/2024.findings-acl.878/)[[PDF]](https://aclanthology.org/2024.findings-acl.878.pdf)
+288 ACL 2024 *Noah Wang, Z.y. Peng, Haoran Que, et al.*, **“RoleLLM: Benchmarking, eliciting, and enhancing role-playing abilities of large language models”** [[HOME Page]](https://aclanthology.org/2024.findings-acl.878/)[[PDF]](https://aclanthology.org/2024.findings-acl.878.pdf)
 
 
 289 NeurIPS 2023 *Guohao Li, Hasan Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem*, **“Camel: communicative agents for ”mind” exploration of large language model society”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)
 
-290 ACL 2024 *Ge Bai, Jie Liu, Xingyuan Bu, Yancheng He, Jiaheng Liu, Zhanhui Zhou, Zhuoran Lin, Wenbo Su, Tiezheng Ge, Bo Zheng, and Wanli Ouyang*, **“MT-bench-101: A fine-grained benchmark for evaluating large language models in multi-turn dialogues” ** [[HOME Page]](https://aclanthology.org/2024.acl-long.401/)[[PDF]](https://aclanthology.org/2024.acl-long.401.pdf)
+290 ACL 2024 *Ge Bai, Jie Liu, Xingyuan Bu, et al.*, **“MT-bench-101: A fine-grained benchmark for evaluating large language models in multi-turn dialogues” ** [[HOME Page]](https://aclanthology.org/2024.acl-long.401/)[[PDF]](https://aclanthology.org/2024.acl-long.401.pdf)
 
 
-291 ICML 2024 *Alex Gu, Baptiste Roziere, Hugh James Leather, Armando Solar-Lezama, Gabriel Synnaeve, Sida Wang*, **“Cruxeval: A benchmark for code reasoning, understanding and execution”** [[HOME Page]](https://icml.cc/virtual/2024/poster/34526) [[PDF]](https://openreview.net/pdf?id=Ffpg52swvg)
+291 ICML 2024 *Alex Gu, Baptiste Roziere, et al.*, **“Cruxeval: A benchmark for code reasoning, understanding and execution”** [[HOME Page]](https://icml.cc/virtual/2024/poster/34526) [[PDF]](https://openreview.net/pdf?id=Ffpg52swvg)
 
 
-292 ICLR 2024 *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, dahai li, Zhiyuan Liu, Maosong Sun*, **“ToolLLM: Facilitating large language models to master 16000+ real-world APIs”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18267)[[PDF]](https://openreview.net/pdf?id=dHng2O0Jjr)
+292 ICLR 2024 *Yujia Qin, Shihao Liang, et al.*, **“ToolLLM: Facilitating large language models to master 16000+ real-world APIs”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18267)[[PDF]](https://openreview.net/pdf?id=dHng2O0Jjr)
 
-293 COLM 2024 *Abhika Mishra, Akari Asai, Vidhisha Balachandran, Yizhong Wang, Graham Neubig, Yulia Tsvetkov, Hannaneh Hajishirzi*,**“Fine-grained hallucination detection and editing for language models”** [[HOME Page]](https://openreview.net/forum?id=dJMTn3QOWO#discussion) [[PDF]](https://openreview.net/pdf?id=dJMTn3QOWO)
+293 COLM 2024 *Abhika Mishra, Akari Asai, et al.*,**“Fine-grained hallucination detection and editing for language models”** [[HOME Page]](https://openreview.net/forum?id=dJMTn3QOWO#discussion) [[PDF]](https://openreview.net/pdf?id=dJMTn3QOWO)
 
 
 
 294 ICLR 2025 *Yantao Liu, Zijun Yao, Rui Min, Yixin Cao, Lei Hou, Juanzi Li*, **“RM-Bench: Benchmarking reward models of language models with subtlety and style”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/29702) [[PDF]](https://arxiv.org/pdf/2410.16184)
 
-295 CVPR 2025 *Lei Li, wei yuancheng, Zhihui Xie, Xuqing Yang, Yifan Song, Peiyi Wang, Chenxin An, Tianyu Liu, Sujian Li, Bill Yuchen Lin, Lingpeng Kong, Qi Liu*, **“VL-RewardBench: A challenging benchmark for vision-language generative reward models”** [[HOME Page]](https://cvpr.thecvf.com/virtual/2025/poster/33389) [[PDF]](https://arxiv.org/pdf/2411.17451v1)
+295 CVPR 2025 *Lei Li, wei yuancheng, et al.*, **“VL-RewardBench: A challenging benchmark for vision-language generative reward models”** [[HOME Page]](https://cvpr.thecvf.com/virtual/2025/poster/33389) [[PDF]](https://arxiv.org/pdf/2411.17451v1)
 
 
 296 arXiv 2024 *Zhuoran Jin, Hongbang Yuan, Tianyi Men, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao*, **“RAG-RewardBench: Benchmarking reward models in retrieval augmented generation for preference alignment”** [[HOME Page]](https://arxiv.org/abs/2412.13746) [[PDF]](https://arxiv.org/pdf/2412.13746)
@@ -195,53 +194,53 @@ Automated Dataset Curation is particularly vulnerable to rapid outdatedness and 
 297 arXiv 2024 *Tinghui Zhu, Qin Liu, Fei Wang, Zhengzhong Tu, Muhao Chen*, **“Unraveling cross-modality knowledge conflicts in large vision-language models”** [[HOME Page]](https://arxiv.org/abs/2410.03659) [[PDF]](https://arxiv.org/pdf/2410.03659)
 
 
-298 ICLR 2024 *Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Qingwei Lin, Daxin Jiang*, **“WizardLM: Empowering large pre-trained language models to follow complex instructions”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19164)[[PDF]](https://openreview.net/pdf?id=CfXh93NDgH)
+298 ICLR 2024 *Can Xu, Qingfeng Sun, et al.*, **“WizardLM: Empowering large pre-trained language models to follow complex instructions”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19164)[[PDF]](https://openreview.net/pdf?id=CfXh93NDgH)
 
 
-299 NeurIPS 2024 *Jiahao Ying, Yixin Cao, Yushi Bai, Qianru Sun, Bo Wang, Wei Tang, Zhaojun Ding, Yizhe Yang, Xuanjing Huang, Shuicheng Yan*, **“Automating dataset updates towards reliable and timely evaluation of large language models”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1e89c12621c0315373f20f0aeabe5dbe-Abstract-Datasets_and_Benchmarks_Track.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1e89c12621c0315373f20f0aeabe5dbe-Paper-Datasets_and_Benchmarks_Track.pdf)
+299 NeurIPS 2024 *Jiahao Ying, Yixin Cao, et al.*, **“Automating dataset updates towards reliable and timely evaluation of large language models”**[[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1e89c12621c0315373f20f0aeabe5dbe-Abstract-Datasets_and_Benchmarks_Track.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/1e89c12621c0315373f20f0aeabe5dbe-Paper-Datasets_and_Benchmarks_Track.pdf)
 
 
 
 
-301 NeurIPS 2023 *Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou*, **“Benchmarking foundation models with language-model-as-an-examiner”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f64e55d03e2fe61aa4114e49cb654acb-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f64e55d03e2fe61aa4114e49cb654acb-Paper-Datasets_and_Benchmarks.pdf)
+301 NeurIPS 2023 *Yushi Bai, Jiahao Ying, et al.*, **“Benchmarking foundation models with language-model-as-an-examiner”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f64e55d03e2fe61aa4114e49cb654acb-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f64e55d03e2fe61aa4114e49cb654acb-Paper-Datasets_and_Benchmarks.pdf)
 
 ## Pipeline of Automated Dataset Curation
 
 Pipeline of Automated Dataset Curation consists of ways to enhance the ability of automated dataset curation in the design, including well-defined taxonomy, step decomposition, prompting and verification.
 
-145 ICML 2024 *Kaining Ying, Fanqing Meng, Jin Wang, Zhiqian Li, Han Lin, Yue Yang, Hao Zhang, Wenbo Zhang, Yuqi Lin, Shuo Liu, Jiayi Lei, Quanfeng Lu, Runjian Chen, Peng Xu, Renrui Zhang, Haozhe Zhang, Peng Gao, Yali Wang, Yu Qiao, Ping Luo, Kaipeng Zhang, Wenqi Shao*, **“Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask AGI” **[[HOME Page]](https://icml.cc/virtual/2024/poster/34062)[[PDF]](https://openreview.net/pdf?id=R4Ng8zYaiz)
+145 ICML 2024 *Kaining Ying, Fanqing Meng, et al.*, **“Mmt-bench: A comprehensive multimodal benchmark for evaluating large vision-language models towards multitask AGI” **[[HOME Page]](https://icml.cc/virtual/2024/poster/34062)[[PDF]](https://openreview.net/pdf?id=R4Ng8zYaiz)
 
 147 EMNLP 2024 *Meiqi Chen, Yixin Cao, Yan Zhang, and Chaochao Lu*, **“Quantifying and mitigating unimodal biases in multimodal large language models: A causal perspective”**[[HOME Page]](https://aclanthology.org/2024.findings-emnlp.960)[[PDF]](https://aclanthology.org/2024.findings-emnlp.960.pdf)
 
-263 EMNLP 2024 *Yubo Ma, Zhibin Gou, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, and Aixin Sun*, **“SciAgent: Tool-augmented language models for scientific reasoning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.880)[[PDF]](https://aclanthology.org/2024.emnlp-main.880.pdf)
+263 EMNLP 2024 *Yubo Ma, Zhibin Gou, Junheng Hao, et al.*, **“SciAgent: Tool-augmented language models for scientific reasoning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.880)[[PDF]](https://aclanthology.org/2024.emnlp-main.880.pdf)
 
-273 arXiv 2024 *Xueguang Ma, Shengyao Zhuang, Bevan Koopman, Guido Zuccon, Wenhu Chen, Jimmy Lin*, **“VISA: Retrieval augmented generation with visual source attribution”** [[HOME Page]](https://arxiv.org/abs/2412.14457v1) [[PDF]](https://arxiv.org/pdf/2412.14457v1)
-
-
-289 NeurIPS 2023 *Guohao Li, Hasan Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem*, **“Camel: communicative agents for ”mind” exploration of large language model society”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)
-
-292 ICLR 2024 *Yujia Qin, Shihao Liang, Yining Ye, Kunlun Zhu, Lan Yan, Yaxi Lu, Yankai Lin, Xin Cong, Xiangru Tang, Bill Qian, Sihan Zhao, Lauren Hong, Runchu Tian, Ruobing Xie, Jie Zhou, Mark Gerstein, dahai li, Zhiyuan Liu, Maosong Sun*, **“ToolLLM: Facilitating large language models to master 16000+ real-world APIs”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18267)[[PDF]](https://openreview.net/pdf?id=dHng2O0Jjr)
-
-296 arXiv 2024 *Zhuoran Jin, Hongbang Yuan, Tianyi Men, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao*, **“RAG-RewardBench: Benchmarking reward models in retrieval augmented generation for preference alignment”** [[HOME Page]](https://arxiv.org/abs/2412.13746) [[PDF]](https://arxiv.org/pdf/2412.13746)
-
-302 ICLR 2024 *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hangliang Ding, Kaiwen Men, Kejuan Yang, Shudan Zhang, Xiang Deng, Aohan Zeng, Zhengxiao Du, Chenhui Zhang, Sheng Shen, Tianjun Zhang, Yu Su, Huan Sun, Minlie Huang, Yuxiao Dong, Jie Tang*, **“AgentBench: Evaluating LLMs as agents” **[[HOME Page]](https://iclr.cc/virtual/2024/poster/17388)[[PDF]](https://openreview.net/pdf?id=zAdUB0aCTQ)
+273 arXiv 2024 *Xueguang Ma, Shengyao Zhuang, et al.*, **“VISA: Retrieval augmented generation with visual source attribution”** [[HOME Page]](https://arxiv.org/abs/2412.14457v1) [[PDF]](https://arxiv.org/pdf/2412.14457v1)
 
 
-303 CVPR 2024 *Bohao Li, Yuying Ge, Yixiao Ge, Guangzhi Wang, Rui Wang, Ruimao Zhang, Ying Shan*, **“Seed-Bench: Benchmarking multimodal large language models”**  [[HOME Page]](https://openaccess.thecvf.com/content/CVPR2024/html/Li_SEED-Bench_Benchmarking_Multimodal_Large_Language_Models_CVPR_2024_paper.html) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SEED-Bench_Benchmarking_Multimodal_Large_Language_Models_CVPR_2024_paper.pdf)
+289 NeurIPS 2023 *Guohao Li, Hasan Hammoud, et al.*, **“Camel: communicative agents for ”mind” exploration of large language model society”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a3621ee907def47c1b952ade25c67698-Paper-Conference.pdf)
 
-304 EMNLP 2024 *Yizhu Jiao, Ming Zhong, Sha Li, Ruining Zhao, Siru Ouyang, Heng Ji, and Jiawei Han*, “**Instruct and extract: Instruction tuning for on-demand information extraction”**  [[HOME Page]](https://aclanthology.org/2023.emnlp-main.620/)[[PDF]](https://aclanthology.org/2023.emnlp-main.620.pdf)
+292 ICLR 2024 *Yujia Qin, Shihao Liang, et al.*, **“ToolLLM: Facilitating large language models to master 16000+ real-world APIs”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18267)[[PDF]](https://openreview.net/pdf?id=dHng2O0Jjr)
 
+296 arXiv 2024 *Zhuoran Jin, Hongbang Yuan, et al.*, **“RAG-RewardBench: Benchmarking reward models in retrieval augmented generation for preference alignment”** [[HOME Page]](https://arxiv.org/abs/2412.13746) [[PDF]](https://arxiv.org/pdf/2412.13746)
 
-305 EMNLP 2024 *Philippe Laban, Alexander Fabbri, Caiming Xiong, and Chien-Sheng Wu*, **“Summary of a haystack: A challenge to long-context LLMs and RAG systems”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.552/)[[PDF]](https://aclanthology.org/2024.emnlp-main.552.pdf)
-
-
-306 EMNLP 2024 *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, and Zhifang Sui*, **“A survey on in-context learning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.64/)[[PDF]](https://aclanthology.org/2024.emnlp-main.64.pdf)
+302 ICLR 2024 *Xiao Liu, Hao Yu, et al.*, **“AgentBench: Evaluating LLMs as agents” **[[HOME Page]](https://iclr.cc/virtual/2024/poster/17388)[[PDF]](https://openreview.net/pdf?id=zAdUB0aCTQ)
 
 
-307 ICLR 2024 *Xiang Yue, Xingwei Qu, Ge Zhang, Yao Fu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen*, **“MAmmoTH: Building math generalist models through hybrid instruction tuning” **[[HOME Page]](https://iclr.cc/virtual/2024/poster/17422) [[PDF]](https://openreview.net/pdf?id=yLClGs770I)
+303 CVPR 2024 *Bohao Li, Yuying Ge, et al.*, **“Seed-Bench: Benchmarking multimodal large language models”**  [[HOME Page]](https://openaccess.thecvf.com/content/CVPR2024/html/Li_SEED-Bench_Benchmarking_Multimodal_Large_Language_Models_CVPR_2024_paper.html) [[PDF]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SEED-Bench_Benchmarking_Multimodal_Large_Language_Models_CVPR_2024_paper.pdf)
+
+304 EMNLP 2024 *Yizhu Jiao, Ming Zhong, et al.*, “**Instruct and extract: Instruction tuning for on-demand information extraction”**  [[HOME Page]](https://aclanthology.org/2023.emnlp-main.620/)[[PDF]](https://aclanthology.org/2023.emnlp-main.620.pdf)
 
 
-308 NeurIPS 2024 *Dan Zhang, Ziniu Hu, Sining Zhoubian, Zhengxiao Du, Kaiyu Yang, Zihan Wang, Yisong Yue, Yuxiao Dong, Jie Tang*, **“SciInstruct: a self-reflective instruction annotated dataset for training scientific language models”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/02ee6b7295f720407b56c457b34c54d5-Abstract-Datasets_and_Benchmarks_Track.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/02ee6b7295f720407b56c457b34c54d5-Paper-Datasets_and_Benchmarks_Track.pdf)
+305 EMNLP 2024 *Philippe Laban, Alexander Fabbri, et al.*, **“Summary of a haystack: A challenge to long-context LLMs and RAG systems”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.552/)[[PDF]](https://aclanthology.org/2024.emnlp-main.552.pdf)
+
+
+306 EMNLP 2024 *Qingxiu Dong, Lei Li, Damai Dai, et al.*, **“A survey on in-context learning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.64/)[[PDF]](https://aclanthology.org/2024.emnlp-main.64.pdf)
+
+
+307 ICLR 2024 *Xiang Yue, Xingwei Qu, Ge Zhang, et al.*, **“MAmmoTH: Building math generalist models through hybrid instruction tuning” **[[HOME Page]](https://iclr.cc/virtual/2024/poster/17422) [[PDF]](https://openreview.net/pdf?id=yLClGs770I)
+
+
+308 NeurIPS 2024 *Dan Zhang, Ziniu Hu, et al.*, **“SciInstruct: a self-reflective instruction annotated dataset for training scientific language models”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/02ee6b7295f720407b56c457b34c54d5-Abstract-Datasets_and_Benchmarks_Track.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/file/02ee6b7295f720407b56c457b34c54d5-Paper-Datasets_and_Benchmarks_Track.pdf)
 
 
 
@@ -249,26 +248,26 @@ Pipeline of Automated Dataset Curation consists of ways to enhance the ability o
 
 Part Evaluator displays methods and strategies of LLM-as-judge.
 
-130 NeurIPS 2023 *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E Gonzalez, Ion Stoica*, **“Judging llm-as-a-judge with mt-bench and chatbot arena”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)
+130 NeurIPS 2023 *Lianmin Zheng, Wei-Lin Chiang, et al.*, **“Judging llm-as-a-judge with mt-bench and chatbot arena”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)
 
-242 DASFAA 2024 *Yu Li, Shenyu Zhang, Rui Wu, Xiutian Huang, Yongrui Chen, Wenhao Xu, Guilin Qi & Dehai Min*, **"MATEval: A multi-agent discussion framework for advancing open-eEnded text evaluation"** [[HOME Page]](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_31) [[PDF]](https://arxiv.org/pdf/2403.19305v2)
+242 DASFAA 2024 *Yu Li, Shenyu Zhang, Rui Wu, et al.*, **"MATEval: A multi-agent discussion framework for advancing open-eEnded text evaluation"** [[HOME Page]](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_31) [[PDF]](https://arxiv.org/pdf/2403.19305v2)
 
-301 NeurIPS 2023 *Yushi Bai, Jiahao Ying, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou*, **“Benchmarking foundation models with language-model-as-an-examiner”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f64e55d03e2fe61aa4114e49cb654acb-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f64e55d03e2fe61aa4114e49cb654acb-Paper-Datasets_and_Benchmarks.pdf)
+301 NeurIPS 2023 *Yushi Bai, Jiahao Ying, et al.*, **“Benchmarking foundation models with language-model-as-an-examiner”** [[HOME Page]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f64e55d03e2fe61aa4114e49cb654acb-Abstract-Datasets_and_Benchmarks.html)[[PDF]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f64e55d03e2fe61aa4114e49cb654acb-Paper-Datasets_and_Benchmarks.pdf)
 
-306 EMNLP 2024 *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Baobao Chang, Xu Sun, Lei Li, and Zhifang Sui*, **“A survey on in-context learning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.64/)[[PDF]](https://aclanthology.org/2024.emnlp-main.64.pdf)
+306 EMNLP 2024 *Qingxiu Dong, Lei Li, et al.*, **“A survey on in-context learning”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.64/)[[PDF]](https://aclanthology.org/2024.emnlp-main.64.pdf)
 
 
-315 ACL 2024 *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu*, **“Gptscore: Evaluate as you desire”** [[HOME Page]](https://aclanthology.org/2024.naacl-long.365/)[[PDF]](https://aclanthology.org/2024.naacl-long.365.pdf)
+315 ACL 2024 *Jinlan Fu, See-Kiong Ng, et al.*, **“Gptscore: Evaluate as you desire”** [[HOME Page]](https://aclanthology.org/2024.naacl-long.365/)[[PDF]](https://aclanthology.org/2024.naacl-long.365.pdf)
 
-318 JMLR 2024 *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, Albert Webson, Shixiang Shane Gu, Zhuyun Dai, Mirac Suzgun, Xinyun Chen, Aakanksha Chowdhery, Alex Castro-Ros, Marie Pellat, Kevin Robinson, Dasha Valter, Sharan Narang, Gaurav Mishra, Adams Yu, Vincent Zhao, Yanping Huang, Andrew Dai, Hongkun Yu, Slav Petrov, Ed H. Chi, Jeff Dean, Jacob Devlin, Adam Roberts, Denny Zhou, Quoc V. Le, Jason Wei*, **“Scaling instruction-finetuned language models”** [[HOME Page]](https://jmlr.org/papers/v25/23-0870.html)[[PDF]](https://jmlr.org/papers/volume25/23-0870/23-0870.pdf)
+318 JMLR 2024 *Hyung Won Chung, Le Hou, et al.*, **“Scaling instruction-finetuned language models”** [[HOME Page]](https://jmlr.org/papers/v25/23-0870.html)[[PDF]](https://jmlr.org/papers/volume25/23-0870/23-0870.pdf)
 
 319 ACL 2023 *Xi Ye, Srinivasan Iyer, Asli Celikyilmaz, Veselin Stoyanov, Greg Durrett, and Ramakanth Pasunuru*, **“Complementary explanations for effective in-context learning”** [[HOME Page]](https://aclanthology.org/2023.findings-acl.273/)[[PDF]](https://aclanthology.org/2023.findings-acl.273.pdf)
 
 
-321 Eval4NLP 2023 *Neema Kotonya, Saran Krishnasamy, Joel Tetreault, and Alejandro Jaimes*, **“Little giants: Exploring the potential of small LLMs as evaluation metrics in summarization in the Eval4NLP 2023 shared task”** [[HOME Page]](https://aclanthology.org/2023.eval4nlp-1.17) [[PDF]](https://aclanthology.org/2023.eval4nlp-1.17.pdf)
+321 Eval4NLP 2023 *Neema Kotonya, Saran Krishnasamy, et al.*, **“Little giants: Exploring the potential of small LLMs as evaluation metrics in summarization in the Eval4NLP 2023 shared task”** [[HOME Page]](https://aclanthology.org/2023.eval4nlp-1.17) [[PDF]](https://aclanthology.org/2023.eval4nlp-1.17.pdf)
 
 
-322 arXiv 2023 *Hosein Hasanbeig, Hiteshi Sharma, Leo Betthauser, Felipe Vieira Frujeri, Ida Momennejad*, **“Allure: A systematic protocol for auditing and improving llm-based evaluation of text using iterative in-context-learning,”** [[HOME Page]](https://arxiv.org/abs/2309.13701) [[PDF]](https://arxiv.org/pdf/2309.13701)
+322 arXiv 2023 *Hosein Hasanbeig, Hiteshi Sharma, et al.*, **“Allure: A systematic protocol for auditing and improving llm-based evaluation of text using iterative in-context-learning,”** [[HOME Page]](https://arxiv.org/abs/2309.13701) [[PDF]](https://arxiv.org/pdf/2309.13701)
 
 
 323 ACL coling 2025 *Mingyang Song, Mao Zheng, and Xuan Luo*, **“Can many-shot in-context learning help long-context LLM judges? see more, judge better!”** [[HOME Page]](https://aclanthology.org/2025.coling-main.548/) [[PDF]](https://aclanthology.org/2025.coling-main.548.pdf)
@@ -279,63 +278,57 @@ Part Evaluator displays methods and strategies of LLM-as-judge.
 
 325 EMNLP 2023 *Cheng-Han Chiang and Hung-yi Lee*, **“A closer look into using large language models for automatic evaluation”** [[HOME Page]](https://aclanthology.org/2023.findings-emnlp.599)[[PDF]](https://aclanthology.org/2023.findings-emnlp.599.pdf)
 
-
 326 EACL 2024 *Terry Yue Zhuo*, **“Ice-score: Instructing large language models to evaluate code”** [[HOME Page]](https://aclanthology.org/2024.findings-eacl.148/)[[PDF]](https://aclanthology.org/2024.findings-eacl.148.pdf)
 
-
-327 NAACL 2024 *Swarnadeep Saha, Omer Levy, Asli Celikyilmaz, Mohit Bansal, Jason Weston, and Xian Li*, **“Branch-solve-merge improves large language model evaluation and generation”** [[HOME Page]](https://aclanthology.org/2024.naacl-long.462/) [[PDF]](https://aclanthology.org/2024.naacl-long.462.pdf)
-
+327 NAACL 2024 *Swarnadeep Saha, Omer Levy, et al.*, **“Branch-solve-merge improves large language model evaluation and generation”** [[HOME Page]](https://aclanthology.org/2024.naacl-long.462/) [[PDF]](https://aclanthology.org/2024.naacl-long.462.pdf)
 
 328 NAACL 2024 *Hangfeng He, Hongming Zhang, and Dan Roth*, **“SocREval: Large language models with the socratic method for reference-free reasoning evaluation”** [[HOME Page]](https://aclanthology.org/2024.findings-naacl.175/) [[PDF]](https://aclanthology.org/2024.findings-naacl.175.pdf)
 
 329 ICLR 2024 *Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, hai zhao, Pengfei Liu*, **“Generative judge for evaluating alignment”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/18128)[[PDF]](https://openreview.net/pdf?id=gtkFw6sZGS)
 
-330 ACL 2024 *Zhuohao Yu, Chang Gao, Wenjin Yao, Yidong Wang, Wei Ye, Jindong Wang, Xing Xie, Yue Zhang, and Shikun Zhang*, **“Kieval: A knowledge-grounded interactive evaluation framework for large language models,”** [[HOME Page]](https://aclanthology.org/2024.acl-long.325/)[[PDF]](https://aclanthology.org/2024.acl-long.325.pdf)
+330 ACL 2024 *Zhuohao Yu, Chang Gao, et al.*, **“Kieval: A knowledge-grounded interactive evaluation framework for large language models,”** [[HOME Page]](https://aclanthology.org/2024.acl-long.325/)[[PDF]](https://aclanthology.org/2024.acl-long.325.pdf)
 
-331 arXiv 2023 *Mingqi Gao, Jie Ruan, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan*, **“Human-like summarization evaluation with Chat-GPT”** [[HOME Page]](https://arxiv.org/abs/2304.02554) [[PDF]](https://arxiv.org/pdf/2304.02554)
+331 arXiv 2023 *Mingqi Gao, Jie Ruan, et al.*, **“Human-like summarization evaluation with Chat-GPT”** [[HOME Page]](https://arxiv.org/abs/2304.02554) [[PDF]](https://arxiv.org/pdf/2304.02554)
 
-332 EMNLP 2024 *Seungone Kim, Juyoung Suk, Shayne Longpre, Bill Yuchen Lin, Jamin Shin, Sean Welleck, Graham Neubig, Moontae Lee, Kyungjae Lee, and Minjoon Seo*, **“Prometheus 2: An open source language model specialized in evaluating other language models”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.248/) [[PDF]](https://aclanthology.org/2024.emnlp-main.248.pdf)
+332 EMNLP 2024 *Seungone Kim, Juyoung Suk, et al.*, **“Prometheus 2: An open source language model specialized in evaluating other language models”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.248/) [[PDF]](https://aclanthology.org/2024.emnlp-main.248.pdf)
 
-333 ACL 2023 *Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, and Chunting Zhou*, **“Multi-dimensional evaluation of text summarization with in-context learning”** [[HOME Page]](https://aclanthology.org/2023.findings-acl.537/)[[PDF]](https://aclanthology.org/2023.findings-acl.537.pdf)
+333 ACL 2023 *Sameer Jain, Vaishakh Keshava, et al.*, **“Multi-dimensional evaluation of text summarization with in-context learning”** [[HOME Page]](https://aclanthology.org/2023.findings-acl.537/)[[PDF]](https://aclanthology.org/2023.findings-acl.537.pdf)
 
+334 ACL 2024 *Hwanjun Song, Hang Su, et al.*, **“Finesure: Fine-grained summarization evaluation using LLMs,”** [[HOME Page]](https://aclanthology.org/2024.acl-long.51/)[[PDF]](https://aclanthology.org/2024.acl-long.51.pdf)
 
+335 ACL 2024 *Yuxuan Liu, Tianchi Yang, et al.*, **“Hd-eval: Aligning large language model evaluators through hierarchical criteria decomposition”** [[HOME Page]](https://aclanthology.org/2024.acl-long.413/) [[PDF]](https://aclanthology.org/2024.acl-long.413.pdf)
 
-334 ACL 2024 *Hwanjun Song, Hang Su, Igor Shalyminov, Jason Cai, and Saab Mansour*, **“Finesure: Fine-grained summarization evaluation using LLMs,”** [[HOME Page]](https://aclanthology.org/2024.acl-long.51/)[[PDF]](https://aclanthology.org/2024.acl-long.51.pdf)
-
-
-335 ACL 2024 *Yuxuan Liu, Tianchi Yang, Shaohan Huang, Zihan Zhang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, and Qi Zhang*, **“Hd-eval: Aligning large language model evaluators through hierarchical criteria decomposition”** [[HOME Page]](https://aclanthology.org/2024.acl-long.413/) [[PDF]](https://aclanthology.org/2024.acl-long.413.pdf)
-
-336 ACL 2024 *Xinyu Hu, Mingqi Gao, Sen Hu, Yang Zhang, Yicheng Chen, Teng Xu, and Xiaojun Wan*, **“Are LLM-based evaluators confusing NLG quality criteria?”** [[HOME Page]](https://aclanthology.org/2024.acl-long.516/)[[PDF]](https://aclanthology.org/2024.acl-long.516.pdf)
+336 ACL 2024 *Xinyu Hu, Mingqi Gao, et al.*, **“Are LLM-based evaluators confusing NLG quality criteria?”** [[HOME Page]](https://aclanthology.org/2024.acl-long.516/)[[PDF]](https://aclanthology.org/2024.acl-long.516.pdf)
 
 
-337 LREC 2024 *Yuxuan Liu, Tianchi Yang, Shaohan Huang, Zihan Zhang, Haizhen Huang, Furu Wei, Weiwei Deng, Feng Sun, and Qi Zhang*, **“Calibrating LLM-based evaluator”** [[HOME Page]](https://aclanthology.org/2024.lrec-main.237/) [PDF](https://aclanthology.org/2024.lrec-main.237.pdf)
+337 LREC 2024 *Yuxuan Liu, Tianchi Yang, et al.*, **“Calibrating LLM-based evaluator”** [[HOME Page]](https://aclanthology.org/2024.lrec-main.237/) [PDF](https://aclanthology.org/2024.lrec-main.237.pdf)
 
 338 EMNLP 2024 *Yijiang River Dong, Tiancheng Hu, and Nigel Collier*, **“Can LLM be a personalized judge?”** [[HOME Page]](https://aclanthology.org/2024.findings-emnlp.592/)[[PDF]](https://aclanthology.org/2024.findings-emnlp.592.pdf)
 
 
-341 ICLR 2024 *Yidong Wang, Zhuohao Yu, Wenjin Yao, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang*, **“PandaLM: Anautomatic evaluation benchmark for LLM instruction tuning optimization”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19427)[[PDF]](https://openreview.net/pdf?id=5Nn2BLV7SB)
+341 ICLR 2024 *Yidong Wang, Zhuohao Yu, et al.*, **“PandaLM: Anautomatic evaluation benchmark for LLM instruction tuning optimization”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19427)[[PDF]](https://openreview.net/pdf?id=5Nn2BLV7SB)
 
 
-342 arXiv 2024 *Ruochen Zhao, Wenxuan Zhang, Yew Ken Chia, Weiwen Xu, Deli Zhao, Lidong Bing*, **“Auto arena of llms: Automating llm evaluations with agent peer-battles and committee discussions”** [[HOME Page]](https://arxiv.org/abs/2405.20267) [[PDF]](https://arxiv.org/pdf/2405.20267)
+342 arXiv 2024 *Ruochen Zhao, Wenxuan Zhang, et al.*, **“Auto arena of llms: Automating llm evaluations with agent peer-battles and committee discussions”** [[HOME Page]](https://arxiv.org/abs/2405.20267) [[PDF]](https://arxiv.org/pdf/2405.20267)
 
 
-343 arXiv 2024 *Zhumin Chu, Qingyao Ai, Yiteng Tu, Haitao Li, Yiqun Liu*, **“PRE: A peer review based large language model evaluator”** [[HOME Page]](https://arxiv.org/abs/2401.15641) [[PDF]](https://arxiv.org/pdf/2401.15641)
+343 arXiv 2024 *Zhumin Chu, Qingyao Ai, et al.*, **“PRE: A peer review based large language model evaluator”** [[HOME Page]](https://arxiv.org/abs/2401.15641) [[PDF]](https://arxiv.org/pdf/2401.15641)
 
 
-344 ICLR 2025 *Kun-Peng Ning, Shuo Yang, Yuyang Liu, Jia-Yu Yao, Zhenhui Liu, Yonghong Tian, Yibing Song, Yuan Li*, **“Pico: Peer review in LLMs based on the consistency optimization”**  [[HOME Page]](https://iclr.cc/virtual/2025/poster/28108) [[PDF]](https://openreview.net/pdf?id=sfQ6XpApfS)
+344 ICLR 2025 *Kun-Peng Ning, Shuo Yang, et al.*, **“Pico: Peer review in LLMs based on the consistency optimization”**  [[HOME Page]](https://iclr.cc/virtual/2025/poster/28108) [[PDF]](https://openreview.net/pdf?id=sfQ6XpApfS)
 
-345 arXiv 2024 *Bhrij Patel, Souradip Chakraborty, Wesley A. Suttle, Mengdi Wang, Amrit Singh Bedi, Dinesh Manocha*, **“AIME: AI system optimization via multiple LLM evaluators”** [[HOME Page]](https://arxiv.org/abs/2410.03131) [[PDF]](https://arxiv.org/pdf/2410.03131)
+345 arXiv 2024 *Bhrij Patel, Souradip Chakraborty, et al.*, **“AIME: AI system optimization via multiple LLM evaluators”** [[HOME Page]](https://arxiv.org/abs/2410.03131) [[PDF]](https://arxiv.org/pdf/2410.03131)
 
 
 346 EMNLP 2024 *Yicheng Gao, Gonghan Xu, Zhe Wang, and Arman Cohan*, **“Bayesian calibration of win rate estimation with LLM evaluators”** [[HOME Page ]](https://aclanthology.org/2024.emnlp-main.273/)[[PDF]](https://aclanthology.org/2024.emnlp-main.273.pdf)
 
-347 arXiv 2024 *Zhengyu Hu, Jieyu Zhang, Zhihan Xiong, Alexander Ratne, Hui Xiong, Ranjay Krishna*, **“Language model preference evaluation with multiple weak evaluators”** [[HOME Page]](https://arxiv.org/abs/2410.12869) [[PDF]](https://arxiv.org/pdf/2410.12869)
+347 arXiv 2024 *Zhengyu Hu, Jieyu Zhang, et al.*, **“Language model preference evaluation with multiple weak evaluators”** [[HOME Page]](https://arxiv.org/abs/2410.12869) [[PDF]](https://arxiv.org/pdf/2410.12869)
 
 
-348 arXiv 2023  *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li*, **“Wider and deeper LLM networks are fairer LLM evaluators”** [[HOME Page]](https://arxiv.org/abs/2308.01862) [[PDF]](https://arxiv.org/pdf/2308.01862)
+348 arXiv 2023  *Xinghua Zhang, Bowen Yu, et al.*, **“Wider and deeper LLM networks are fairer LLM evaluators”** [[HOME Page]](https://arxiv.org/abs/2308.01862) [[PDF]](https://arxiv.org/pdf/2308.01862)
 
 
-349 arXiv 2023 *Zhenran Xu, Senbao Shi, Baotian Hu, Jindi Yu, Dongfang Li, Min Zhang, Yuxiang Wu*, **“Towards reasoning in large language models via multi-agent peer review collaboration”** [[HOME Page]](https://arxiv.org/abs/2311.08152) [[PDF]](https://arxiv.org/pdf/2311.08152)
+349 arXiv 2023 *Zhenran Xu, Senbao Shi, et al.*, **“Towards reasoning in large language models via multi-agent peer review collaboration”** [[HOME Page]](https://arxiv.org/abs/2311.08152) [[PDF]](https://arxiv.org/pdf/2311.08152)
 
 
 350 EMNLP 2024 *Sirui Liang, Baoli Zhang, Jun Zhao, and Kang Liu*, **“ABSEval: An agent-based framework for script evaluation”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.691/)[[PDF]](https://aclanthology.org/2024.emnlp-main.691.pdf)
@@ -343,7 +336,7 @@ Part Evaluator displays methods and strategies of LLM-as-judge.
 
 351 arXiv 2024 *Chaithanya Bandi, Abir Harrasse*, **“Adversarial multi-agent evaluation of large language models through iterative debates”** [[HOME Page]](https://arxiv.org/abs/2410.04663) [PDF](https://arxiv.org/pdf/2410.04663)
 
-352 ICLR 2024 *Chi-Min Chan, Weize Chen, Yusheng Su, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu*, **“ChatEval: Towards better LLM-based evaluators through multi-agent debate”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19065)[[PDF]](https://openreview.net/pdf?id=FQepisCUWu)
+352 ICLR 2024 *Chi-Min Chan, Weize Chen, et al.*, **“ChatEval: Towards better LLM-based evaluators through multi-agent debate”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19065)[[PDF]](https://openreview.net/pdf?id=FQepisCUWu)
 
 
 353 TMLR 2024 *Ruosen Li, Teerth Patel, Xinya Du*, **“PRD: Peer rank and discussion improve large language model based evaluations,”** [[HOME Page]](https://openreview.net/forum?id=YVD1QqWRaj) [[PDF]](https://openreview.net/pdf?id=YVD1QqWRaj)
@@ -351,42 +344,42 @@ Part Evaluator displays methods and strategies of LLM-as-judge.
 
 354 ICLR 2025 *Jaehun Jung, Faeze Brahman, Yejin Choi*, **“Trust or escalate: Llm judges with provable guarantees for human agreement”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/29482)[[PDF]](https://openreview.net/pdf?id=UHPnqSTBPO)
 
-355 arXiv 2024 *Hui Huang, Yingqi Qu, Xingyuan Bu, Hongli Zhou, Jing Liu, Muyun Yang, Bing Xu, Tiejun Zhao*, **“An empirical study of LLM-as-a-judge for LLM evaluation: Fine-tuned judge models is not a genera substitute for GPT-4”** [[HOME Page]](https://arxiv.org/abs/2403.02839) [[PDF]](https://arxiv.org/pdf/2403.02839)
+355 arXiv 2024 *Hui Huang, Yingqi Qu, Xingyuan Bu, et al.*, **“An empirical study of LLM-as-a-judge for LLM evaluation: Fine-tuned judge models is not a genera substitute for GPT-4”** [[HOME Page]](https://arxiv.org/abs/2403.02839) [[PDF]](https://arxiv.org/pdf/2403.02839)
 
 
-356 HUCLLM 2024 *Qian Pan, Zahra Ashktorab, Michael Desmond, Martín Santillán Cooper, James Johnson, Rahul Nair, Elizabeth Daly, and Werner Geyer*, **“Human-centered design recommendations for LLM-as-a-judge”** [[HOME Page]](https://aclanthology.org/2024.hucllm-1.2/) [[PDF]](https://aclanthology.org/2024.hucllm-1.2.pdf)
+356 HUCLLM 2024 *Qian Pan, Zahra Ashktorab, Michael Desmond, et al.*, **“Human-centered design recommendations for LLM-as-a-judge”** [[HOME Page]](https://aclanthology.org/2024.hucllm-1.2/) [[PDF]](https://aclanthology.org/2024.hucllm-1.2.pdf)
 
 
 358 arXiv 2023 *Qintong Li, Leyang Cui, Lingpeng Kong, Wei Bi*, **"Collaborative Evaluation: Exploring the Synergy of Large Language Models and Humans for Open-ended Generation Evaluation"** [[HOME Page]](https://arxiv.org/abs/2310.19740v1) [[PDF]](https://arxiv.org/pdf/2310.19740v1)
 
-359 UIST 2024 *Shreya Shankar, J.D. Zamfirescu-Pereira, Bjoern Hartmann, Aditya Parameswaran, Ian Arawjo*, **“Who validates the validators? aligning LLM-assisted evaluation of LLM outputs with human preferences”** [[HOME Page]](https://dl.acm.org/doi/fullHtml/10.1145/3654777.3676450) [[PDF]](https://dl.acm.org/doi/epdf/10.1145/3654777.3676450)
+359 UIST 2024 *Shreya Shankar, J.D. Zamfirescu-Pereira, et al.*, **“Who validates the validators? aligning LLM-assisted evaluation of LLM outputs with human preferences”** [[HOME Page]](https://dl.acm.org/doi/fullHtml/10.1145/3654777.3676450) [[PDF]](https://dl.acm.org/doi/epdf/10.1145/3654777.3676450)
 
 
-361 AIES 2023  *Charvi Rastogi, Marco Tulio Ribeiro, Nicholas King, Harsha Nori, Saleema Amershi*, **“Supporting human-AI collaboration in auditing LLMs with LLMs”** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3600211.3604712)
+361 AIES 2023  *Charvi Rastogi, Marco Tulio Ribeiro, et al.*, **“Supporting human-AI collaboration in auditing LLMs with LLMs”** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3600211.3604712)
 
-362 ACL 2024 *Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Lingpeng Kong, Qi Liu, Tianyu Liu, and Zhifang Sui*, **“Large language models are not fair evaluators”** [[HOME Page]](https://aclanthology.org/2024.acl-long.511/)[[PDF]](https://aclanthology.org/2024.acl-long.511.pdf)
+362 ACL 2024 *Peiyi Wang, Lei Li, et al.*, **“Large language models are not fair evaluators”** [[HOME Page]](https://aclanthology.org/2024.acl-long.511/)[[PDF]](https://aclanthology.org/2024.acl-long.511.pdf)
 
-363 arXiv 2023 *Tianlu Wang, Ping Yu, Xiaoqing Ellen Tan, Sean O'Brien, Ramakanth Pasunuru, Jane Dwivedi-Yu, Olga Golovneva, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz*, **“Shepherd: A critic for language model generation”** [[HOME Page]](https://arxiv.org/abs/2308.04592) [[PDF]](https://arxiv.org/pdf/2308.04592)
+363 arXiv 2023 *Tianlu Wang, Ping Yu, et al.*, **“Shepherd: A critic for language model generation”** [[HOME Page]](https://arxiv.org/abs/2308.04592) [[PDF]](https://arxiv.org/pdf/2308.04592)
 
-364 EMNLP 2024 *Tu Vu, Kalpesh Krishna, Salaheddin Alzubi, Chris Tar, Manaal Faruqui, and Yun-Hsuan Sung*, **“Foundational autoraters: Taming large language models for better automatic evaluation” **[[HOME Page]](https://aclanthology.org/2024.emnlp-main.949/)[[PDF]](https://aclanthology.org/2024.emnlp-main.949.pdf)
+364 EMNLP 2024 *Tu Vu, Kalpesh Krishna, et al.*, **“Foundational autoraters: Taming large language models for better automatic evaluation” **[[HOME Page]](https://aclanthology.org/2024.emnlp-main.949/)[[PDF]](https://aclanthology.org/2024.emnlp-main.949.pdf)
 
 
 365 ICLR 2025 *Lianghui Zhu, Xinggang Wang, Xinlong Wang*, **“Judgelm: Fine-tuned large language models are scalable judges”** [[HOME Page]](https://iclr.cc/virtual/2025/poster/27760)[[PDF]](https://openreview.net/pdf?id=xsELpEPn4A)
 
-366 ICLR 2024 *Seungone Kim, Jamin Shin, yejin cho, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Ryan, S Shin, Sungdong Kim, James Thorne, Minjoon Seo*, **“Prometheus: Inducing fine-grained evaluation capability in language models”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19321)[[PDF]](https://openreview.net/pdf?id=8euJaTveKw)
+366 ICLR 2024 *Seungone Kim, Jamin Shin, et al.*, **“Prometheus: Inducing fine-grained evaluation capability in language models”** [[HOME Page]](https://iclr.cc/virtual/2024/poster/19321)[[PDF]](https://openreview.net/pdf?id=8euJaTveKw)
 
 
-367 TMLR 2024 *Dongfu Jiang, Yishan Li, Ge Zhang, Wenhao Huang, Bill Yuchen Lin, Wenhu Chen*, **“Tigerscore: Towards building explainable metric for all text generation tasks,”** [[HOME Page]](https://openreview.net/forum?id=EE1CBKC0SZ) [[PDF]](https://openreview.net/pdf?id=EE1CBKC0SZ)
+367 TMLR 2024 *Dongfu Jiang, Yishan Li, et al.*, **“Tigerscore: Towards building explainable metric for all text generation tasks,”** [[HOME Page]](https://openreview.net/forum?id=EE1CBKC0SZ) [[PDF]](https://openreview.net/pdf?id=EE1CBKC0SZ)
 
-368 EMNLP 2023 *Wenda Xu, Danqing Wang, Liangming Pan, Zhenqiao Song, Markus Freitag, William Wang, and Lei Li*, **“INSTRUCTSCORE: Towards explainable text generation evaluation with automatic feedback”** [[HOME Page]](https://aclanthology.org/2023.emnlp-main.365/)[[PDF]](https://aclanthology.org/2023.emnlp-main.365.pdf)
+368 EMNLP 2023 *Wenda Xu, Danqing Wang, et al.*, **“INSTRUCTSCORE: Towards explainable text generation evaluation with automatic feedback”** [[HOME Page]](https://aclanthology.org/2023.emnlp-main.365/)[[PDF]](https://aclanthology.org/2023.emnlp-main.365.pdf)
 
-369 EMNLP 2024 *Yixiu Liu, Yuxiang Zheng, Shijie Xia, Jiajun Li, Yi Tu, Chaoling Song, and Pengfei Liu*, **“Safety-j: Evaluating safety with critique”** [[HOME Page]](https://aclanthology.org/2024.findings-emnlp.64/)[[PDF]](https://aclanthology.org/2024.findings-emnlp.64.pdf)
-
-
-371 PDLM 2025 *Binjie Wang, Steffi Chern, Ethan Chern, Pengfei Liu*, **“Halu-j: Critique-based hallucination judge”** [[PDF]](https://openreview.net/pdf?id=PFNvlDbq2F)
-
-372 EMNLP 2024 *Xinyu Hu, Li Lin, Mingqi Gao, Xunjian Yin, and Xiaojun Wan*, **“Themis: A reference-free NLG evaluation language model with flexibility and interpretability”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.891/)[[PDF]](https://aclanthology.org/2024.emnlp-main.891.pdf)
+369 EMNLP 2024 *Yixiu Liu, Yuxiang Zheng, et al.*, **“Safety-j: Evaluating safety with critique”** [[HOME Page]](https://aclanthology.org/2024.findings-emnlp.64/)[[PDF]](https://aclanthology.org/2024.findings-emnlp.64.pdf)
 
 
-373 arXiv 2024 *Tianhao Wu, Weizhe Yuan, Olga Golovneva, Jing Xu, Yuandong Tian, Jiantao Jiao, Jason Weston, Sainbayar Sukhbaatar*, **“Meta-rewarding language models: Self-improving alignment with LLM-as-a-meta-judge”** [[HOME Page]](https://arxiv.org/abs/2407.19594) [[PDF]](https://arxiv.org/pdf/2407.19594)
+371 PDLM 2025 *Binjie Wang, Steffi Chern, et al.*, **“Halu-j: Critique-based hallucination judge”** [[PDF]](https://openreview.net/pdf?id=PFNvlDbq2F)
+
+372 EMNLP 2024 *Xinyu Hu, Li Lin, et al.*, **“Themis: A reference-free NLG evaluation language model with flexibility and interpretability”** [[HOME Page]](https://aclanthology.org/2024.emnlp-main.891/)[[PDF]](https://aclanthology.org/2024.emnlp-main.891.pdf)
+
+
+373 arXiv 2024 *Tianhao Wu, Weizhe Yuan, et al.*, **“Meta-rewarding language models: Self-improving alignment with LLM-as-a-meta-judge”** [[HOME Page]](https://arxiv.org/abs/2407.19594) [[PDF]](https://arxiv.org/pdf/2407.19594)
 
